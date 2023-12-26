@@ -12,8 +12,9 @@ namespace SistemaBancario.Entidades
         }
 
         //Reutilizar o construtor da ContaCorrente
-        public ContaEspecial(string proprietario, double saldo, int numero) : base(proprietario, saldo, numero)
+        public ContaEspecial(string proprietario, double saldo, int numero, string tipo) : base(proprietario, saldo, numero, tipo)
         {
+            Tipo = tipo;
         }
 
         //Sobreposição da função 'Sacar' para adicionar o limite
