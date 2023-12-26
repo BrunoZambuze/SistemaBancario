@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\bin\Debug\net7.0\SistemaBancario.exe
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\bin\Debug\net7.0\SistemaBancario.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\bin\Debug\net7.0\SistemaBancario.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\bin\Debug\net7.0\SistemaBancario.dll
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\bin\Debug\net7.0\SistemaBancario.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.dll
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\refint\SistemaBancario.dll
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\SistemaBancario.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaBancario\SistemaBancario\obj\Debug\net7.0\ref\SistemaBancario.dll
